@@ -15,6 +15,7 @@ We want you to create a simple online tool that helps them set the price for a g
 * We’ve provided a table below to help understand the basics of the tool.  We’ve also provided a data file which can be found here https://ap-southeast-2.aws.com/??.  In this file you’ll find a list of products with the name, code, cost price, sell price and margin and the method used.  The “method” property can be either “price” or “margin”.  This tells the user which method they used to determine the price.
 
 | Product | Cost ($) | Sell price $ | Sell price % |
+| ---| --- | ---- | ---- | 
 | Fuji apples | $0.99 | $1.14 | 15% |
 | Cavendish bananas| $0.55 | | |
 | Navel oranges | $0.75 | |

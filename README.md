@@ -16,8 +16,8 @@ We want you to create a simple online tool that helps them set the price for a g
 | Product | Cost ($) | Sell price $ | Sell price % |
 | ---| --- | ---- | ---- | 
 | Fuji apples | $0.99 | $1.16 | 15% |
-| Cavendish bananas| $0.55 | 0.70 | 21% |
-| Navel oranges | $0.75 | 12% |
+| Cavendish bananas| $0.55 | $0.70 | 21% |
+| Navel oranges | $0.75 | $0.80 | 12% |
 
 Some further instructions:
 * You can use any tool or framework that you feel is appropriate to build the tool.

@@ -5,7 +5,7 @@ We want you to create a simple online tool that helps them set the price for a g
 
 * A user can see a list of the products with the associated cost price, sell price and margin.  (see table below)
 * A user sees prices in dollars ($) and margins in percentages (%)
-* A user can either adjust the $ value or they can specify a margin.  Margin = (sell price - cost price) / cost price.
+* A user can either adjust the $ value or they can specify a margin.  Margin = (sell price - cost price) / sell price.
 * The sell price value or margin is updated automatically depending on which value was set.
 * It should be clear to the user which method was used to set the sell price, either the $ value or the margin.
 * The system should remember which method was used to set the price, either $ value or margin.
@@ -15,11 +15,13 @@ We want you to create a simple online tool that helps them set the price for a g
 
 | Product | Cost ($) | Sell price $ | Sell price % |
 | ---| --- | ---- | ---- | 
-| Fuji apples | $0.99 | $1.14 | 15% |
-| Cavendish bananas| $0.55 | | |
-| Navel oranges | $0.75 | |
+| Fuji apples | $0.99 | $1.16 | 15% |
+| Cavendish bananas| $0.55 | 0.70 | 21% |
+| Navel oranges | $0.75 | 12% |
 
+Some further instructions:
 * You can use any tool or framework that you feel is appropriate to build the tool.
 * We’d like you to build this with a tablet first mindset.
-* We’d like you to submit your solution via GitHub (a fork of the project will suffice)
+* We'd like to see how your solution evolved from start to finish.
+* We’d like you to submit your solution via GitHub (a private fork of the project will suffice).
 

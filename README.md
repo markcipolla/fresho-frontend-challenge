@@ -11,7 +11,7 @@ We want you to create a simple online tool that helps them set the price for a g
 * The system should remember which method was used to set the price, either $ value or margin.
 * If the user refreshes the page then the calculator should remember the last set of prices.
 
-* We’ve provided a table below to help understand the basics of the tool.  We’ve also provided a data file which can be found here https://ap-southeast-2.aws.com/??.  In this file you’ll find a list of products with the name, code, cost price, sell price and margin and the method used.  The “method” property can be either “value” or “margin”.  This tells the user which method they used to determine the price.
+* We’ve provided a table below to help understand the basics of the tool.  We’ve also provided a data file which can be found [here](https://fresho-coding-challenge.s3.ap-southeast-2.amazonaws.com/products.json).  In this file you’ll find a list of products with the name, code, cost price, sell price and margin and the method used.  The “method” property can be either “value” or “margin”.  This tells the user which method they used to determine the price.
 
 | Product | Cost ($) | Sell price $ | Sell price % |
 | ---| --- | ---- | ---- | 
